@@ -2,7 +2,7 @@
 hexo框架下个人博客
 
 
-目录：
+[总目录]:https://github.com/twobear/blog/tree/master/source/_posts
 
-https://github.com/twobear/blog/tree/master/source/_posts
+
 
