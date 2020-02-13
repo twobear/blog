@@ -10,4 +10,4 @@ tags: hexo,部署
 
 2.进行node webhooks.js 测试
 
-3.人
+3.人工
