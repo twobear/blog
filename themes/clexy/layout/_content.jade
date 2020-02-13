@@ -10,8 +10,8 @@ if is_home()
           time(itemprop='datePublished', datetime= post.date.toISOString())= full_date(new Date(post.date), ' dddd, MMMM Do YYYY')
         p(itemprop='text').post-excerpt= post.intro ? post.intro : post.content.replace(/<(?:.|\n)*?>/gm, '').substr(0, 220)
   .footer-bottom
-    | © 2019 ccbear 版权所有
-    a(href='http://www.miitbeian.gov.cn/', target='_blank') 粤 ICP 备 19018662 号
+    | © 2020 ccbear 版权所有
+    a(href='http://www.beian.miit.gov.cn/', target='_blank') 粤 ICP 备 19018662 号
 
 
 //- articles page
